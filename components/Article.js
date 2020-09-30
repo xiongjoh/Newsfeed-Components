@@ -55,6 +55,7 @@ function articleMaker(articleObject) {
 
   expandButton.addEventListener('click', (event) => {
     article.classList.toggle('article-open')
+    // console.log('clicked')
   })
 
   // Step 3: Don't forget to return something from your function!

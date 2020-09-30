@@ -6,7 +6,7 @@
 
 import data from '../data/articleData'
 
-console.log(data)
+// console.log(data)
 
 
   // Step 1: Write a component called 'articleMaker' to create an article.
@@ -60,7 +60,7 @@ function articleMaker(articleObject) {
   // Step 3: Don't forget to return something from your function!
   return article
 }
-console.log(articleMaker(data[0]))
+// console.log(articleMaker(data[0]))
   // Step 4: Outside your function now, loop over the data. At each iteration you'll use your component
   // to create a div.article element and append it to the DOM inside div.articles (see index.html).
 

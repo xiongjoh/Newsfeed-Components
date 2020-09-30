@@ -94,7 +94,16 @@ const articleData = [
         secondParagraph: `afsdfsadfsfsd `,
     
         thirdParagraph: `asfdsfsfd dor... Hodor hodor HODOR hodor, hodor hodor. Hodor.`
-      }
+    },
+    {
+          title: 'Boop',
+          date: 'dafsdafsdafdfsd',
+          firstParagraph: `Hdasfdssfasdfsfaasfdaf`,
+      
+          secondParagraph: `afsdfsdsafsfsadfadfsfsd `,
+      
+          thirdParagraph: `asfdsfsfdsfsadf dosadfsfr... Hodor hodor HasfsasfasfdfODOR hodor, hosdafsafdor hodor. Hodor.`
+    }
   ];
 
   export default articleData
